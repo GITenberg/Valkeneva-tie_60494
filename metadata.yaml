@@ -1,5 +1,8 @@
 _repo: Valkeneva-tie_60494
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haahti, Hilja
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50535
     wikipedia: https://fi.wikipedia.org/wiki/Hilja_Haahti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60494#Valkeneva-tie
 gutenberg_issued: '2019-10-14'
 gutenberg_type: Text
 identifiers:
